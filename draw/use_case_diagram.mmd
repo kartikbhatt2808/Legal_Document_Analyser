@@ -1,0 +1,29 @@
+```mermaid
+usecaseDiagram
+
+title Use Case Diagram for Project
+
+actor User
+actor Admin
+
+User --> (Upload Property Documents)
+User --> (Analyze Property)
+User --> (Verify Property)
+
+Admin --> (Generate Final Report)
+
+(User) -- (View Analysis Results)
+(User) -- (Download Reports)
+
+package "Backend" {
+  (Analyze Property) as UC1
+  (Verify Property) as UC2
+  (Generate Final Report) as UC3
+}
+
+package "Frontend" {
+  (Upload Property Documents) as UC4
+  (View Analysis Results) as UC5
+  (Download Reports) as UC6
+}
+```

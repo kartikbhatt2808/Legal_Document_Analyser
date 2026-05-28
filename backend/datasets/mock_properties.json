@@ -1,0 +1,1218 @@
+[
+  {
+    "property_id": "DSV10001",
+    "owner_name": "Aman Sharma",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10002",
+    "owner_name": "Rohit Verma",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10003",
+    "owner_name": "Priya Joshi",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10004",
+    "owner_name": "Neha Rawat",
+    "status": "Suspicious_Dispute",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10005",
+    "owner_name": "Kunal Bhatt",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10006",
+    "owner_name": "Ankit Negi",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10007",
+    "owner_name": "Sakshi Pant",
+    "status": "Under_Review",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10008",
+    "owner_name": "Vikas Chauhan",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10009",
+    "owner_name": "Ritika Kandari",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10010",
+    "owner_name": "Deepak Nautiyal",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10011",
+    "owner_name": "Mohit Semwal",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10012",
+    "owner_name": "Pooja Bisht",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10013",
+    "owner_name": "Harsh Dobhal",
+    "status": "Suspicious_Dispute",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10014",
+    "owner_name": "Nitin Bahuguna",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10015",
+    "owner_name": "Komal Rawal",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10016",
+    "owner_name": "Arjun Singh",
+    "status": "Under_Review",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10017",
+    "owner_name": "Sneha Thapa",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10018",
+    "owner_name": "Rajat Panwar",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10019",
+    "owner_name": "Tarun Gusain",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10020",
+    "owner_name": "Megha Nautiyal",
+    "status": "Suspicious_Dispute",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10021",
+    "owner_name": "Akash Rawat",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10022",
+    "owner_name": "Ishita Bisht",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10023",
+    "owner_name": "Rohini Negi",
+    "status": "Under_Review",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10024",
+    "owner_name": "Yash Chauhan",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10025",
+    "owner_name": "Tanya Dobhal",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10026",
+    "owner_name": "Abhishek Pant",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10027",
+    "owner_name": "Nidhi Semwal",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10028",
+    "owner_name": "Dev Nautiyal",
+    "status": "Suspicious_Dispute",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10029",
+    "owner_name": "Ananya Rawal",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  },
+  {
+    "property_id": "DSV10030",
+    "owner_name": "Kartik Bhatt",
+    "status": "Verified",
+    "location": "Saraswati Vihar, Dehradun"
+  }
+  ,
+ {
+  "property_id": "DSV10031",
+  "owner_name": "Ayush Rana",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+ },
+ {
+  "property_id": "DSV10032",
+  "owner_name": "Simran Rawat",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+ },
+ {
+  "property_id": "DSV10033",
+  "owner_name": "Rahul Nautiyal",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+ },
+ {
+  "property_id": "DSV10034",
+  "owner_name": "Shivani Bisht",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+ },
+{
+  "property_id": "DSV10035",
+  "owner_name": "Lakshay Negi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10036",
+  "owner_name": "Pankaj Dobhal",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10037",
+  "owner_name": "Sanya Panwar",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10038",
+  "owner_name": "Nikhil Kandari",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10039",
+  "owner_name": "Aditi Semwal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10040",
+  "owner_name": "Manish Rawal",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10041",
+  "owner_name": "Kavya Thapa",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10042",
+  "owner_name": "Ritesh Gusain",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10043",
+  "owner_name": "Naman Bahuguna",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10044",
+  "owner_name": "Pallavi Pant",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10045",
+  "owner_name": "Tushar Chauhan",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10046",
+  "owner_name": "Meenakshi Joshi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10047",
+  "owner_name": "Varun Singh",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10048",
+  "owner_name": "Riya Nautiyal",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10049",
+  "owner_name": "Aditya Bisht",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10050",
+  "owner_name": "Muskan Rawat",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10051",
+  "owner_name": "Rohan Semwal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10052",
+  "owner_name": "Prachi Negi",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10053",
+  "owner_name": "Anuj Dobhal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10054",
+  "owner_name": "Khushi Panwar",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10055",
+  "owner_name": "Siddharth Kandari",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10056",
+  "owner_name": "Divya Rawal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10057",
+  "owner_name": "Aarav Nautiyal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10058",
+  "owner_name": "Isha Bahuguna",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10059",
+  "owner_name": "Harshit Gusain",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10060",
+  "owner_name": "Tanvi Pant",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+}
+,
+{
+  "property_id": "DSV10061",
+  "owner_name": "Anmol Sharma",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10062",
+  "owner_name": "Rhea Bisht",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10063",
+  "owner_name": "Devansh Negi",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10064",
+  "owner_name": "Mahi Rawat",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10065",
+  "owner_name": "Yuvraj Panwar",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10066",
+  "owner_name": "Sonal Dobhal",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10067",
+  "owner_name": "Arpit Kandari",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10068",
+  "owner_name": "Niharika Semwal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10069",
+  "owner_name": "Tanya Nautiyal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10070",
+  "owner_name": "Keshav Rawal",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10071",
+  "owner_name": "Ananya Chauhan",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10072",
+  "owner_name": "Raghav Joshi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10073",
+  "owner_name": "Ishaan Singh",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10074",
+  "owner_name": "Pihu Thapa",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10075",
+  "owner_name": "Ritvik Bahuguna",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10076",
+  "owner_name": "Manya Gusain",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10077",
+  "owner_name": "Kabir Pant",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10078",
+  "owner_name": "Aashi Rawat",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10079",
+  "owner_name": "Daksh Negi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10080",
+  "owner_name": "Siya Dobhal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10081",
+  "owner_name": "Aryan Panwar",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10082",
+  "owner_name": "Palak Kandari",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10083",
+  "owner_name": "Rudra Nautiyal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10084",
+  "owner_name": "Suhani Semwal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10085",
+  "owner_name": "Krish Rawal",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10086",
+  "owner_name": "Jiya Bisht",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10087",
+  "owner_name": "Atharv Chauhan",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10088",
+  "owner_name": "Navya Joshi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10089",
+  "owner_name": "Vivaan Singh",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10090",
+  "owner_name": "Anika Thapa",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10091",
+  "owner_name": "Lakshya Bahuguna",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10092",
+  "owner_name": "Myra Gusain",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10093",
+  "owner_name": "Shaurya Pant",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10094",
+  "owner_name": "Aadhya Rawat",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10095",
+  "owner_name": "Parth Negi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10096",
+  "owner_name": "Kiara Dobhal",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10097",
+  "owner_name": "Vihaan Panwar",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10098",
+  "owner_name": "Sara Kandari",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10099",
+  "owner_name": "Aarohi Nautiyal",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10100",
+  "owner_name": "Reyansh Semwal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+}
+,
+{
+  "property_id": "DSV10101",
+  "owner_name": "Advik Rawal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10102",
+  "owner_name": "Diya Bisht",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10103",
+  "owner_name": "Arnav Chauhan",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10104",
+  "owner_name": "Kashvi Joshi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10105",
+  "owner_name": "Pranav Singh",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10106",
+  "owner_name": "Anvi Thapa",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10107",
+  "owner_name": "Harsh Bahuguna",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10108",
+  "owner_name": "Riya Gusain",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10109",
+  "owner_name": "Vivaan Pant",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10110",
+  "owner_name": "Anaya Rawat",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10111",
+  "owner_name": "Krish Negi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10112",
+  "owner_name": "Saanvi Dobhal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10113",
+  "owner_name": "Ayaan Panwar",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10114",
+  "owner_name": "Navya Kandari",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10115",
+  "owner_name": "Rudransh Nautiyal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10116",
+  "owner_name": "Avni Semwal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10117",
+  "owner_name": "Aryaveer Rawal",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10118",
+  "owner_name": "Ira Bisht",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10119",
+  "owner_name": "Lakshit Chauhan",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10120",
+  "owner_name": "Meher Joshi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+
+{
+  "property_id": "DSV10121",
+  "owner_name": "Dev Sharma",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10122",
+  "owner_name": "Naina Verma",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10123",
+  "owner_name": "Raghav Mehta",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10124",
+  "owner_name": "Siya Kapoor",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10125",
+  "owner_name": "Kabir Saini",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+
+{
+  "property_id": "DSV10126",
+  "owner_name": "Ishita Arora",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10127",
+  "owner_name": "Aarush Rana",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10128",
+  "owner_name": "Kiara Sharma",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10129",
+  "owner_name": "Yuvan Bhatt",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10130",
+  "owner_name": "Mysha Rawat",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+
+{
+  "property_id": "DSV10131",
+  "owner_name": "Tanish Negi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10132",
+  "owner_name": "Pari Dobhal",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10133",
+  "owner_name": "Rian Panwar",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10134",
+  "owner_name": "Aarohi Kandari",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10135",
+  "owner_name": "Vihaan Nautiyal",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+
+{
+  "property_id": "DSV10136",
+  "owner_name": "Anika Semwal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10137",
+  "owner_name": "Shaurya Rawal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10138",
+  "owner_name": "Aadhya Bisht",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10139",
+  "owner_name": "Reyansh Chauhan",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10140",
+  "owner_name": "Navika Joshi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+
+{
+  "property_id": "DSV10141",
+  "owner_name": "Dhruv Singh",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10142",
+  "owner_name": "Avika Thapa",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10143",
+  "owner_name": "Aryan Bahuguna",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10144",
+  "owner_name": "Ritika Gusain",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10145",
+  "owner_name": "Kiaan Pant",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+
+{
+  "property_id": "DSV10146",
+  "owner_name": "Suhana Rawat",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10147",
+  "owner_name": "Vivaan Negi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10148",
+  "owner_name": "Aanya Dobhal",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10149",
+  "owner_name": "Kriv Panwar",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10150",
+  "owner_name": "Prisha Kandari",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+}
+,
+{
+  "property_id": "DSV10151",
+  "owner_name": "Aarav Nautiyal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10152",
+  "owner_name": "Ishika Semwal",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10153",
+  "owner_name": "Rudra Rawal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10154",
+  "owner_name": "Anvi Bisht",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10155",
+  "owner_name": "Laksh Chauhan",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10156",
+  "owner_name": "Mira Joshi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10157",
+  "owner_name": "Yash Singh",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10158",
+  "owner_name": "Tara Thapa",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10159",
+  "owner_name": "Kabir Bahuguna",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10160",
+  "owner_name": "Aditi Gusain",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10161",
+  "owner_name": "Vihaan Pant",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10162",
+  "owner_name": "Kiara Rawat",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10163",
+  "owner_name": "Parth Negi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10164",
+  "owner_name": "Myra Dobhal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10165",
+  "owner_name": "Aryan Panwar",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10166",
+  "owner_name": "Sara Kandari",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10167",
+  "owner_name": "Rian Nautiyal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10168",
+  "owner_name": "Anaya Semwal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10169",
+  "owner_name": "Krish Rawal",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10170",
+  "owner_name": "Diya Bisht",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10171",
+  "owner_name": "Arnav Chauhan",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10172",
+  "owner_name": "Kashvi Joshi",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10173",
+  "owner_name": "Pranav Singh",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10174",
+  "owner_name": "Anvi Thapa",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10175",
+  "owner_name": "Harsh Bahuguna",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10176",
+  "owner_name": "Riya Gusain",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10177",
+  "owner_name": "Vivaan Pant",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10178",
+  "owner_name": "Anaya Rawat",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10179",
+  "owner_name": "Krish Negi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10180",
+  "owner_name": "Saanvi Dobhal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10181",
+  "owner_name": "Ayaan Panwar",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10182",
+  "owner_name": "Navya Kandari",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10183",
+  "owner_name": "Rudransh Nautiyal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10184",
+  "owner_name": "Avni Semwal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10185",
+  "owner_name": "Aryaveer Rawal",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10186",
+  "owner_name": "Ira Bisht",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10187",
+  "owner_name": "Lakshit Chauhan",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10188",
+  "owner_name": "Meher Joshi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10189",
+  "owner_name": "Dev Sharma",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10190",
+  "owner_name": "Naina Verma",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10191",
+  "owner_name": "Raghav Mehta",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10192",
+  "owner_name": "Siya Kapoor",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10193",
+  "owner_name": "Kabir Saini",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10194",
+  "owner_name": "Ishita Arora",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10195",
+  "owner_name": "Aarush Rana",
+  "status": "Suspicious_Dispute",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10196",
+  "owner_name": "Kiara Sharma",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10197",
+  "owner_name": "Yuvan Bhatt",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10198",
+  "owner_name": "Mysha Rawat",
+  "status": "Under_Review",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10199",
+  "owner_name": "Tanish Negi",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10200",
+  "owner_name": "Pari Dobhal",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+},
+{
+  "property_id": "DSV10201",
+  "owner_name": "Rian Panwar",
+  "status": "Verified",
+  "location": "Saraswati Vihar, Dehradun"
+}
+]

@@ -1,0 +1,31 @@
+```mermaid
+classDiagram
+
+class API {
+  +POST /upload
+  +GET /analyze/{id}
+  +POST /verify
+  +GET /report/{id}
+}
+
+class Upload {
+  +uploadDocument(file)
+}
+
+class Analyze {
+  +analyzeProperty(id)
+}
+
+class Verify {
+  +verifyProperty(data)
+}
+
+class Report {
+  +generateReport(id)
+}
+
+API --> Upload
+API --> Analyze
+API --> Verify
+API --> Report
+```

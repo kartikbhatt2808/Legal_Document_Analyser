@@ -1,0 +1,10 @@
+This SOFTWARE SERVICE AGREEMENT (the “Agreement”) is entered into today.
+
+User agrees to use the software provided by the Company. 
+
+1. Termination: The Company reserves the right to terminate any user account at any time without prior notice or explanation. 
+2. Liability: In no event shall the Company be liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use the software.
+3. Penalty: If the User breaches any minor term, the User must pay an indemnity of $10,000 within 24 hours without right of appeal.
+4. Renewal: The subscription will automatically renew for successive one-year terms unless canceled 90 days prior to the expiration date.
+
+By using this software, you agree to these terms.

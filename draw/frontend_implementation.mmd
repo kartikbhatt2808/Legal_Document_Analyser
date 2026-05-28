@@ -1,0 +1,25 @@
+```mermaid
+classDiagram
+
+class Frontend {
+  +UploadZone
+  +Analyzer
+  +PropertyVerification
+}
+
+class UploadZone {
+  +handleFileUpload()
+}
+
+class Analyzer {
+  +displayAnalysisResults()
+}
+
+class PropertyVerification {
+  +verifyProperty()
+}
+
+Frontend --> UploadZone
+Frontend --> Analyzer
+Frontend --> PropertyVerification
+```

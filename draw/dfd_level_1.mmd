@@ -1,0 +1,12 @@
+```mermaid
+graph TD
+
+A[User] -->|Uploads Property Documents| B[Document Analysis]
+B -->|Extracts Data| C[Data Extraction]
+C -->|Stores Data| D[Database]
+B -->|Analyzes Data| E[Analysis Engine]
+E -->|Sends Data| F[Property Verification]
+F -->|Checks Validity| G[Verification Engine]
+G -->|Stores Results| H[Database]
+G -->|Sends Results| I[User]
+```

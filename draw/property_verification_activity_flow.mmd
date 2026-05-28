@@ -1,0 +1,10 @@
+```mermaid
+graph TD
+
+A[User] -->|Submits Property| B[Property Verification]
+B -->|Checks Ownership| C[Ownership Check]
+B -->|Validates Documents| D[Document Validation]
+C -->|Stores Results| E[Database]
+D -->|Stores Results| E
+E -->|Sends Verification| F[User]
+```

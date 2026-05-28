@@ -1,0 +1,25 @@
+```mermaid
+classDiagram
+
+class Property {
+  +String id
+  +String address
+  +String owner
+  +List documents
+}
+
+class Verification {
+  +String propertyId
+  +Boolean isVerified
+  +String remarks
+}
+
+class User {
+  +String id
+  +String name
+  +String email
+}
+
+Property --> Verification
+User --> Property
+```
